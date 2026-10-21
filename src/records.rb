@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Build: 368b35b2fd15eec6a631fcedcceb34f0
+# Build: e79a38bfccd2c15f258ea7eece7db16d
 require 'json'
 
 def parse_records(text)
